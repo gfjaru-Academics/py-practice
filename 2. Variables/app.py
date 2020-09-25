@@ -1,5 +1,5 @@
 ###
-### python simple
+### python is simple
 ### just declare, they will decide the data type
 ###
 
